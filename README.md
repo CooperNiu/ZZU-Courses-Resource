@@ -44,7 +44,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 或者也可以直接附加在 **Issue** 中，由维护者进行添加。
 
-或者也可以发送邮件至 **libpku@protonmail.com** ，由维护者进行添加。
+或者也可以发送邮件至 **niuyanno.1@outlook.com** ，由维护者进行添加。
 
 ## Disclaimer
 
@@ -73,5 +73,6 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 - [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 - [中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam)
 - [郑州大学课程资料分享](https://github.com/CooperNiu/ZZU-Courses-Resource)
+- [华南师范大学计算机学院 - 0xFFFF CS Wiki](https://www.yuque.com/0xffff.one/cs-learning)
 
 (more to be added....)
